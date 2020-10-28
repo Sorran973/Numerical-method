@@ -1,2 +1,2 @@
-# Numerical-method
-Labs on numerical method
+# Numerical-methods
+Labs on numerical methods
