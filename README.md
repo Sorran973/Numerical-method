@@ -1,2 +1,2 @@
 # Numerical-methods
-Labs on numerical methods
+Лабораторные работы по Численным Методам
