@@ -1,2 +1,2 @@
-# Numerical-methods
+# NumericalMethods
 Лабораторные работы по Численным Методам
